@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### ⚡ Fun fact:
-![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/overview.svg?raw=true)
-![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
+![alt text](github.com/RAISEMEUP007/files/blob/main/overview.svg)
+![alt text](https://github.com/RAISEMEUP007/files/blob/main/languages.svg)
 
 <a href="https://github.com/RAISEMEUP007/RAISEMEUP007/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&&hide=html,TSQL&layout=compact&langs_count=15" />
