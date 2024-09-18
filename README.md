@@ -22,8 +22,8 @@
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://github.com/RAISEMEUP007/files/blob/main/c.svg)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
 
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Next_-informational?style=flat&logo=next.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Nuxt_-informational?style=flat&logo=nuxt.js&logoColor=white&color=3bac3a)
