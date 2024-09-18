@@ -3,11 +3,11 @@
 ### ⚡ Fun fact:
 <div>
 <a href="https://github.com/RAISEMEUP007/RAISEMEUP007/">
-  <img align="left" src="https://github.com/RAISEMEUP007/files/blob/main/overview.svg" />
+  <img src="https://github.com/RAISEMEUP007/files/blob/main/overview.svg" />
 </a>
 
 <a href="https://github.com/RAISEMEUP007/RAISEMEUP007/">
-  <img align="right" src="https://github.com/RAISEMEUP007/files/blob/main/languages.svg" />
+  <img src="https://github.com/RAISEMEUP007/files/blob/main/languages.svg" />
 </a>
 </div>
 
