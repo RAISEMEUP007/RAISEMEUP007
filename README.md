@@ -5,7 +5,7 @@
 ![alt text](https://github.com/RAISEMEUP007/files/blob/main/languages.svg)
 
 <a href="https://github.com/RAISEMEUP007/RAISEMEUP007/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshoesdev&&hide=html,TSQL&layout=compact&langs_count=15" />
+  <img align="center" src="https://github.com/RAISEMEUP007/files/blob/main/mostusedlanguages.svg" />
 </a>
 
 ## 🔭 Working with
