@@ -2,16 +2,16 @@
 
 ### ⚡ Fun fact:
 <div>
-<a href="https://github.com/RAISEMEUP007/RAISEMEUP007/">
+<a href="https://github.com/RAISEMEUP007/">
   <img src="https://github.com/RAISEMEUP007/files/blob/main/overview.svg" />
 </a>
 
-<a href="https://github.com/RAISEMEUP007/RAISEMEUP007/">
+<a href="https://github.com/RAISEMEUP007/">
   <img src="https://github.com/RAISEMEUP007/files/blob/main/languages.svg" />
 </a>
 </div>
 
-<a href="https://github.com/RAISEMEUP007/RAISEMEUP007/">
+<a href="https://github.com/RAISEMEUP007/">
   <img align="center" src="https://github.com/RAISEMEUP007/files/blob/main/mostusedlanguages.svg" />
 </a>
 
