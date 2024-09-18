@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Node_-informational?style=flat&logo=node.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Ruby-informational?style=flate&logo=ruby&logoColor=white&color=3bac3a)
+![](https://github.com/RAISEMEUP007/files/blob/main/c.svg)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
 
