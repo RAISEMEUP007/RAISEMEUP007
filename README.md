@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-### ⚡ Fun fact:
-<div>
-<a href="https://github.com/RAISEMEUP007/">
-  <img src="https://github.com/RAISEMEUP007/files/blob/main/overview.svg" />
-</a>
-
-<a href="https://github.com/RAISEMEUP007/">
-  <img src="https://github.com/RAISEMEUP007/files/blob/main/languages.svg" />
-</a>
-</div>
-
-<a href="https://github.com/RAISEMEUP007/">
-  <img align="center" src="https://github.com/RAISEMEUP007/files/blob/main/mostusedlanguages.svg" />
-</a>
-
 ## 🔭 Working with
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
